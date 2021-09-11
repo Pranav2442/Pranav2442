@@ -11,14 +11,14 @@
     
 </div>
 
-<h3 align="center">A passionate Competitive programmer and Robotics Enthusiast from India</h3>
+<h3 align="center">A passionate Competitive programmer and Robotics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> </p>
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500" height="320" />
   
-- 🔭 I’m currently working on **Human & Computer Interaction**
+- 🔭 I’m currently working on **Human & Computer Interaction Project**
 
-- 🌱 I’m currently learning **DSA,Computer vision**
+- 🌱 I’m currently learning **DSA & Computer vision**
 
 - 👯 I’m looking to collaborate on **projects based on Image Processing**
 
