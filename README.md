@@ -5,7 +5,7 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm Pranav Mailarpawar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hello there, I'm Pranav Mailarpawar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
     
@@ -16,6 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> </p>
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500" height="320" />
   
+
+- 🎓 I'm Currently studying Electrical & Electronics Engineering at Visvesvaraya National Institute of Technology,Nagpur (2020-2024)
+
 - 🔭 I’m currently working on **Human & Computer Interaction Project**
 
 - 🌱 I’m currently learning **DSA & Computer vision**
@@ -79,12 +82,18 @@
 
 
 
+
+
+
+## 🔗LINK TO THE VIDEO
+
+https://drive.google.com/file/d/1bTrFoFH_yenro0C8AjXu9_BQFtGJy3Gg/view?usp=sharing
+
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
-
 
