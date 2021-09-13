@@ -85,9 +85,6 @@
 
 
 
-## 🔗LINK TO THE VIDEO
-
-https://drive.google.com/file/d/1bTrFoFH_yenro0C8AjXu9_BQFtGJy3Gg/view?usp=sharing
 
 
 
