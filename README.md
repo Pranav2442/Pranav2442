@@ -29,7 +29,9 @@
 
 - 📫 How to reach me **hyprocus@gmail.com**
 
-- ⚡ Fun fact :- **Music + Code....Name a more iconic duo I'll wait**
+- ⚡ Fun fact :- **I sleep at 3 am**
+
+- 🎿 Hobbies other than coding : Listening Music , Watching Movies , Playing PC games and Reading blogs on Tech.
 
 
 
