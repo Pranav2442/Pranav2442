@@ -73,10 +73,7 @@
 <a href="https://www.linkedin.com/in/pranav-mailarpawar-529ab9203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mailarpawar" height="30" width="40" /></a>
 <a href="https://twitter.com/Hyprocus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hyprocus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjkWSPwXuSkGRZkiYsru_jw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranav mailarpawar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranav_2442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranav_2442" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav__2442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav__2442" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31g3pic76ftms4yogavx5hdguruq?si=6452e2ee7c894ce7" target="blank"><img align="center" src="https://imgur.com/S8nu89o.png" alt="pranav__2442" height="30" width="40" /></a>
-
 </p>
 
 
