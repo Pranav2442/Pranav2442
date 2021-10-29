@@ -23,13 +23,11 @@
 
 - 🌱 I’m currently learning **DSA & Computer vision**
 
-- 👯 I’m looking to collaborate on **projects based on Image Processing**
+- 👯 I Love when [**Gestures**](https://drive.google.com/drive/folders/1QDZ3Uw8NmMTgYlvVCkK7GPXUjpdOpNBh?usp=sharing) expresses more than what you want to say and thats what fascinates me a lot :)  
 
 - 👨‍💻 All of my projects are available at [https://znap.link/Pranav-Mailarpawar](https://znap.link/Pranav-Mailarpawar)
 
 - 📫 How to reach me **hyprocus@gmail.com**
-
-- ⚡ Fun fact :- **I sleep at 3 am**
 
 - 🎿 Hobbies other than coding : Listening Music , Watching Movies , Playing PC games and Reading blogs on Tech.
 
