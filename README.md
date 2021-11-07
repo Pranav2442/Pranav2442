@@ -19,8 +19,6 @@
 
 - 🎓 I'm Currently studying Electrical & Electronics Engineering at Visvesvaraya National Institute of Technology,Nagpur (2020-2024)
 
-- 🔭 I’m currently working on **Human & Computer Interaction Project**
-
 - 🤖I Love when [**Gestures**](https://drive.google.com/drive/folders/1QDZ3Uw8NmMTgYlvVCkK7GPXUjpdOpNBh?usp=sharing) expresses more than words , thats what fascinates me a lot :)  
 
 - 👨‍💻 All of my projects are available at [https://znap.link/Pranav-Mailarpawar](https://znap.link/Pranav-Mailarpawar)
