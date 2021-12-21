@@ -21,7 +21,7 @@
 
 - 🦄 Community Manager of [**Code Coterie**](https://discord.gg/HNJTZUxR) one of the Fastest growing Tech community on Discord.
 
-- 🧠 I'm interested in Natural Language Processing and Image Processing.
+- 🧠 I'm working on Natural Language Processing and Image Processing.
 
 - 🤖I Love the way [**Gestures**](https://drive.google.com/drive/folders/1QDZ3Uw8NmMTgYlvVCkK7GPXUjpdOpNBh?usp=sharing) expresses more than words , thats what fascinates me a lot :)  
 
