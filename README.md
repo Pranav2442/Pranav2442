@@ -19,7 +19,7 @@
 
 - 🎓 I'm Currently studying Electrical & Electronics Engineering at Visvesvaraya National Institute of Technology,Nagpur (2020-2024)
 
-- 🦄 Community Manager of [**Code Coterie**](https://discord.gg/HNJTZUxR) one of the Fatest growing Tech community on Discord.
+- 🦄 Community Manager of [**Code Coterie**](https://discord.gg/HNJTZUxR) one of the Fastest growing Tech community on Discord.
 
 - 🤖I Love the way [**Gestures**](https://drive.google.com/drive/folders/1QDZ3Uw8NmMTgYlvVCkK7GPXUjpdOpNBh?usp=sharing) expresses more than words , thats what fascinates me a lot :)  
 
