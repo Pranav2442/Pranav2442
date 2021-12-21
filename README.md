@@ -29,6 +29,8 @@
 
 - 🎿 Hobbies other than coding : Listening Music , Watching Movies , Playing PC games and Reading blogs on Tech.
 
+- 🧾 My [**Resume**](https://drive.google.com/file/d/1QcIoFKaEoY4AuHmWsvcy9dutYIauYj2Z/view?usp=sharing) 
+
 
 
 ## Languages & Tools
