@@ -31,7 +31,7 @@
 
 - 🎿 Hobbies other than coding : Gaming and Reading blogs on Tech.
 
-- 🧾 My [**Resume**](https://drive.google.com/file/d/1QcIoFKaEoY4AuHmWsvcy9dutYIauYj2Z/view?usp=sharing) 
+- 🧾 My [**Resume**](https://drive.google.com/file/d/18Zm57cvkiQzqFTOwaiayzvM8bEXaS2MV/view?usp=sharing) 
 
 
 
