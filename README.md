@@ -5,7 +5,7 @@
 
 
 <div align="center">
-   <h1>Hello Hevelopers, I'm Pranav Mailarpawar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hello Developers, I'm Pranav Mailarpawar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
     
