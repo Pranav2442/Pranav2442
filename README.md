@@ -10,11 +10,28 @@
    
     
 </div>
+<p>
 
 <h3 align="center">A passionate Competitive programmer and Robotics Enthusiast</h3>
+</p>
+<p >
+<a href="https://www.linkedin.com/in/pranav-mailarpawar-529ab9203/">
+  <img align="left" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
+</a>
+<a href="https://twitter.com/Hyprocus">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> </p>
+<a href="https://www.youtube.com/channel/UCjkWSPwXuSkGRZkiYsru_jw">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+</a>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
+
+</p>
 <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" />
+
+
   
 
 - 🎓 I'm Currently studying Electrical & Electronics Engineering at Visvesvaraya National Institute of Technology,Nagpur (2020-2024)
@@ -69,18 +86,15 @@
 <br/>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranav-mailarpawar-529ab9203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mailarpawar" height="30" width="40" /></a>
-<a href="https://twitter.com/Hyprocus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hyprocus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCjkWSPwXuSkGRZkiYsru_jw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranav mailarpawar" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav__2442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav__2442" height="30" width="40" /></a>
-</p>
 
 
 
+<div align="center">
+   
+ 
 
-
+![snake gif](https://github.com/Pranav2442/Pranav2442/blob/output/github-contribution-grid-snake.svg)
+</div >
 
 
 
