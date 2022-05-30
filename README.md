@@ -29,7 +29,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
 
 </p>
-<img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
 
 
   
@@ -51,7 +51,7 @@
 - 🧾 My [**Resume**](https://drive.google.com/file/d/1Y3LAxR0AJyYpsbIn4b1vg1r21Z091Iv6/view?usp=sharing) 
 
 
-
+<!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
 ## Languages & Tools
 <div>
 
