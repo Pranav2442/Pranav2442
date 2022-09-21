@@ -29,16 +29,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
 
 </p>
-<!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
 
 
   
 
 - 🎓 I'm Currently studying Electrical & Electronics Engineering at Visvesvaraya National Institute of Technology,Nagpur (2020-2024)
 
-- 🦄 Community Manager of [**Code Coterie**](https://discord.gg/CheNbz6D) one of the Fastest growing Tech community on Discord.
+- 🧠 I'm Interested in Developing Efficient and Highly Scalable Softwares.
 
-- 🧠 I'm working on Natural Language Processing and Image Processing.
+- 🦄  Really Love optimising the code to make the things work faster than before.
 
 - 🤖I Love the way [**Gestures**](https://drive.google.com/drive/folders/1QDZ3Uw8NmMTgYlvVCkK7GPXUjpdOpNBh?usp=sharing) expresses more than words , thats what fascinates me a lot :)  
 
@@ -46,9 +45,7 @@
 
 - 📫 How to reach me **hyprocus@gmail.com**
 
-- 🎿 Hobbies other than coding : Gaming and Reading blogs on Tech.
-
-- 🧾 My [**Resume**](https://drive.google.com/file/d/1Y3LAxR0AJyYpsbIn4b1vg1r21Z091Iv6/view?usp=sharing) 
+- 🧾 My [**Resume**](https://drive.google.com/file/d/14EmHI9GoJTD7PnPpX5PwWUhOdviPo0Tr/view?usp=sharing) 
 
 
 <!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
