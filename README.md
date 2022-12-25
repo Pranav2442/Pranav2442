@@ -15,16 +15,6 @@
 <h3 align="center">A passionate Competitive programmer and Robotics Enthusiast</h3>
 </p>
 <p >
-<a href="https://www.linkedin.com/in/pranav-mailarpawar-529ab9203/">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
-</a>
-<a href="https://twitter.com/Hyprocus">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCjkWSPwXuSkGRZkiYsru_jw">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-</a>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
 
