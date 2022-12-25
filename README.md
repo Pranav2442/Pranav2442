@@ -80,6 +80,19 @@
  -->
 
 
+## Connect with me
+<div>
+
+<p align="Left"> 
+ 
+  <a href="https://www.linkedin.com/in/pranav-mailarpawar-529ab9203/" target="_blank"> <img src="https://imgur.com/UhekN8J.png" alt="cplusplus" width="40" height="30"/> </a>
+   <a href="https://twitter.com/Hyprocus" target="_blank"> <img src="https://imgur.com/7ILl180.png" alt="python" width="40" height="30"/> </a>
+   <a href="https://www.youtube.com/channel/UCjkWSPwXuSkGRZkiYsru_jw" target="_blank"> <img src="https://imgur.com/NeT4LKK.png" alt="c" width="40" height="30"/> </a>
+  
+ 
+</div>
+
+
 
 
 
