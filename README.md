@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **hyprocus@gmail.com**
 
-- 🧾 My [**Resume**](https://drive.google.com/file/d/14EmHI9GoJTD7PnPpX5PwWUhOdviPo0Tr/view?usp=sharing) 
+ 
 
 
 <!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
