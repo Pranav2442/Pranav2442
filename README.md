@@ -10,10 +10,15 @@
    
     
 </div>
+
+
+
 <p>
 
 <h3 align="center">Backend Developer by Day , Competitive Programmer by Night</h3>
 </p>
+
+<img src="https://imgur.com/gqV1wKh.gif" height=390  width=1000>
 <p >
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
@@ -60,6 +65,6 @@
 
 
 
-
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
 
