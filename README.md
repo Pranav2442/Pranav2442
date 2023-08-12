@@ -4,19 +4,11 @@
 
 
 
-<div align="center">
-   <h1>Hey Developers, This is Pranav Mailarpawar :)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-    
+<div>
+   <h1>Hey Developers, This is Pranav Mailarpawar :)</a> </h1>
 </div>
 
-
-
-<p>
-
-<h3 align="center">Backend Developer by Day , Competitive Programmer by Night</h3>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Backend+Developer+by+Day+;Competitive+Programmer+by+Night)](https://git.io/typing-svg)
 
 <img src="https://imgur.com/gqV1wKh.gif" height=390  width=1000>
 <p >
