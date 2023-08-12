@@ -19,8 +19,32 @@
 
 - Building the Realm of Microservices with Springboot and gRPC (Faster the better)
 - Fluttering the way out of Cinepolis with Flutter
-- Likes C++ ,happy with one? never , Python , Java , Js , Dart , SQL , HTML , CSS , OpenCV , Mediapipe , Fusion360
 - Things keeps me insane apart from all? Webseries, Movies , Music and yeah weekly visits to Cafes and Malls
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```yaml
+apiVersion: v21
+kind: Human
+
+metadata:
+  name: pranav mailarpawar
+
+experience:
+  company: Bank of NewYork (BNY Mellon)
+  role : Software Engineering Intern
+  work: Built Microservices using SpringBoot and gRPC
+
+technologies:
+  code : C , C++ , Python , Java
+  App Dev : Flutter , Dart
+  FrontEnd : HTML , CSS , Js , React
+  BackEnd : SpringBoot , gRPC , Oracle DB , SQL
+  misc : openCV , mediapipe , fustion360
+   
+```
+
+
 
 <!-- <img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" /> -->
 
@@ -58,5 +82,7 @@
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+
 
 
